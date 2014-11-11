@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vocabulary</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <string-array name="menu_slide_item">
+        <item>Vocabulary</item>
+        <item>Search</item>
+        <item>About us</item>
+    </string-array>
+
+    <string name="title_activity_vocabulary">VocabularyActivity</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_mai9n">Mai9nActivity</string>
+
+</resources>
